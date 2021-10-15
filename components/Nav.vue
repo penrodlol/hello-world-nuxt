@@ -18,11 +18,11 @@
       <div class="text-xl">
         <NuxtLink
           class="mr-4 cursor-pointer hover:text-purple-400"
-          to="products"
+          to="/products"
         >
           Products
         </NuxtLink>
-        <NuxtLink class="cursor-pointer hover:text-purple-400" to="items">
+        <NuxtLink class="cursor-pointer hover:text-purple-400" to="/items">
           Items
         </NuxtLink>
       </div>

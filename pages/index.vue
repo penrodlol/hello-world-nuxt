@@ -1,6 +1,5 @@
 <template>
   <div class="min-h-screen w-screen bg-purple-100">
-    <Nav />
     <main class="m-auto max-w-prose p-10">
       <Hero class="mb-14" />
       <LargeCardDisplay
